@@ -1,4 +1,4 @@
-[
+{
     "specialties": [
 		{ "id": 1, "title": "Clínico Geral", "code": "clinico-geral", "description": "O Clínico Geral é o médico que trata de pacientes adultos, acompanhando diferentes doenças." },
 		{ "id": 2, "title": "Pediatria", "code": "pedriatria","description": "O Pediatra é o médico que atua na assistência a crianças e adolescentes, fazendo a prevenção e o tratamento de doenças e acompanhando o desenvolvimento de seus pacientes." },
@@ -6,4 +6,4 @@
 		{ "id": 4, "title": "Cardiologia", "code": "cardiologia","description": "O Cardiologista é o médico que faz o diagnóstico e tratamento das doenças do coração e também do sistema circulatório. Além de tratar doenças como hipertensão, AVC e arritmia, o Cardiologista deve ser procurado para uma orientação preventiva." },
 		{ "id": 5, "title": "Geriatria", "code": "geriatria","description": "O Geriatra é o médico que trata de pacientes idosos, acompanhando as mudanças naturais referentes ao processo de envelhecimento." }
 	]
-]
+}
