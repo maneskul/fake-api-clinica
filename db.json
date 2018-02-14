@@ -5,14 +5,14 @@
 			"title": "Clínico Geral",
 			"code": "clinico-geral",
 			"short_description": "O Clínico Geral é o médico que trata de pacientes adultos, acompanhando diferentes doenças.",
-			"description": "O Ginecologista é o médico que trata do organismo da mulher e de seu aparelho genital, fazendo o acompanhamento contínuo da saúde feminina. Alguns dos sintomas avaliados pelo Ginecologista são:<br/> - Problemas de corrimento;<br/> - Dor na relação sexual;<br/> - Suspeita de gravidez;<br/> - Prevenção de doenças relacionadas ao aparelho reprodutor feminino.<br/><br/>Para o complemento da consulta, o médico poderá pedir alguns exames, como papanicolau, colposcopia, vulvoscopia, ultrassom transvaginal, ultrassom de mamas, mamografia e exames laboratoriais variados."
+			"description": "O Clínico Geral é o médico que trata de pacientes adultos, acompanhando diferentes doenças.<br/>Alguns dos sintomas avaliados pelo Clínico Geral são:<br/>- Cefaleia;<br/>- Mal-estar em geral;<br/>- Tontura;<br/>- Fadiga<br/>- Diarreia;<br/>- Constipação;<br/>- Dores no peito.<br/>Para complemento da consulta, o médico poderá pedir alguns exames, como exames laboratoriais diversos, ecocardiograma, raio-X de tórax e ultrassonografia abdominal total."
 		},
 		{
 			"id": 2,
 			"title": "Pediatria",
 			"code": "pedriatria",
 			"short_description": "O Pediatra é o médico que atua na assistência a crianças e adolescentes, fazendo a prevenção e o tratamento de doenças e acompanhando o desenvolvimento de seus pacientes.",
-			"description": "O Ginecologista é o médico que trata do organismo da mulher e de seu aparelho genital, fazendo o acompanhamento contínuo da saúde feminina. Alguns dos sintomas avaliados pelo Ginecologista são:<br/> - Problemas de corrimento;<br/> - Dor na relação sexual;<br/> - Suspeita de gravidez;<br/> - Prevenção de doenças relacionadas ao aparelho reprodutor feminino.<br/><br/>Para o complemento da consulta, o médico poderá pedir alguns exames, como papanicolau, colposcopia, vulvoscopia, ultrassom transvaginal, ultrassom de mamas, mamografia e exames laboratoriais variados."
+			"description": "O Pediatra é o médico que atua na assistência a crianças e adolescentes, fazendo a prevenção e o tratamento de doenças e acompanhando o desenvolvimento de seus pacientes.<br/>Alguns dos sintomas avaliados pelo Pediatra são:<br/>- Falta de apetite;<br/>- Erros alimentares;<br/>- Baixo peso e/ou estatura;<br/>- Dor abdominal;<br/>- Diarreia;<br/>- Constipação intestinal;<br/>- Tosse;<br/>- Obstrução nasal;<br/>- Coriza;<br/>- Espirros;<br/>- Alergias;<br/>- Crises de chiado no peito.<br/>Para complementar a consulta, o médico poderá pedir alguns exames, como hemograma, ferro sérico, ferritina, urina I, urocultura, parasitológico de fezes, colesterol total e frações, triglicérides e glicemia."
 		},
 		{
 			"id": 3,
@@ -26,14 +26,13 @@
 			"title": "Cardiologia",
 			"code": "cardiologia",
 			"short_description": "O Cardiologista é o médico que faz o diagnóstico e tratamento das doenças do coração e também do sistema circulatório. Além de tratar doenças como hipertensão, AVC e arritmia, o Cardiologista deve ser procurado para uma orientação preventiva.",
-			"description": "O Ginecologista é o médico que trata do organismo da mulher e de seu aparelho genital, fazendo o acompanhamento contínuo da saúde feminina. Alguns dos sintomas avaliados pelo Ginecologista são:<br/> - Problemas de corrimento;<br/> - Dor na relação sexual;<br/> - Suspeita de gravidez;<br/> - Prevenção de doenças relacionadas ao aparelho reprodutor feminino.<br/><br/>Para o complemento da consulta, o médico poderá pedir alguns exames, como papanicolau, colposcopia, vulvoscopia, ultrassom transvaginal, ultrassom de mamas, mamografia e exames laboratoriais variados."
+			"description": "O Cardiologista é o médico que faz o diagnóstico e tratamento das doenças do coração e também do sistema circulatório.<br/>Além de tratar doenças como hipertensão, AVC e arritmia, o Cardiologista deve ser procurado para uma orientação preventiva.<br/>Alguns dos sintomas avaliados pelo cardiologista são:<br/>- Dores no peito;<br/>- Tontura;<br/>- Fadiga;<br/>- Cansaço;<br/>- Arritmias;<br/>- Suor excessivo;<br/>- Inchaço.<br/>Para complemento da consulta, o médico poderá pedir alguns exames, como eletrocardiograma, ecocardiograma, Holter 24h, MAPA, teste ergométrico (teste de esforço), cintilografia miocárdica, tomografia de artérias coronárias, ressonância magnética do coração, teste de inclinação (Tilt test) ou cateterismo cardíaco."
 		},
 		{
 			"id": 5,
 			"title": "Geriatria",
 			"code": "geriatria",
-			"short_description": "O Geriatra é o médico que trata de pacientes idosos, acompanhando as mudanças naturais referentes ao processo de envelhecimento.",
-			"description": "O Ginecologista é o médico que trata do organismo da mulher e de seu aparelho genital, fazendo o acompanhamento contínuo da saúde feminina. Alguns dos sintomas avaliados pelo Ginecologista são:<br/> - Problemas de corrimento;<br/> - Dor na relação sexual;<br/> - Suspeita de gravidez;<br/> - Prevenção de doenças relacionadas ao aparelho reprodutor feminino.<br/><br/>Para o complemento da consulta, o médico poderá pedir alguns exames, como papanicolau, colposcopia, vulvoscopia, ultrassom transvaginal, ultrassom de mamas, mamografia e exames laboratoriais variados."
+			"short_description": "O Geriatra é o médico que trata de pacientes idosos, acompanhando as mudanças naturais referentes ao processo de envelhecimento.<br/>Alguns dos sintomas avaliados pelo Geriatra são:<br/>- Esquecimentos constantes;<br/>- Dores de cabeça;<br/>- Tonturas;<br/>- Vontade de urinar com muita frequência;<br/>- Sede constante;<br/>- Perda de peso;<br/>- Fadiga;<br/>- Nervosismo;<br/>- Mudanças de humor;<br/>- Náusea e vômito;<br/>- Infecções frequentes;<br/>- Visão embaçada;<br/>- Dificuldade de cicatrização de feridas;<br/>Dor nas articulações.<br/>Para o complemento da consulta, o médico poderá pedir alguns exames, como hemograma, coagulograma, perfil renal, perfil hepático, eletrólitos, colesterol e triglicerídeos, função tireoidiana, vitamina D, vitamina B12, PSA, ácido úrico, eletrocardiograma, ecocardiograma, urina, raio-x de tórax, ultrassom, tomografia e ressonância."
 		}
 	]
 }
