@@ -1,9 +1,39 @@
 {
-    "specialties": [
-		{ "id": 1, "title": "Clínico Geral", "code": "clinico-geral", "description": "O Clínico Geral é o médico que trata de pacientes adultos, acompanhando diferentes doenças." },
-		{ "id": 2, "title": "Pediatria", "code": "pedriatria","description": "O Pediatra é o médico que atua na assistência a crianças e adolescentes, fazendo a prevenção e o tratamento de doenças e acompanhando o desenvolvimento de seus pacientes." },
-		{ "id": 3, "title": "Ginecologia", "code": "ginecologia","description": "O Ginecologista é o médico que trata do organismo da mulher e de seu aparelho genital, fazendo o acompanhamento contínuo da saúde feminina." },
-		{ "id": 4, "title": "Cardiologia", "code": "cardiologia","description": "O Cardiologista é o médico que faz o diagnóstico e tratamento das doenças do coração e também do sistema circulatório. Além de tratar doenças como hipertensão, AVC e arritmia, o Cardiologista deve ser procurado para uma orientação preventiva." },
-		{ "id": 5, "title": "Geriatria", "code": "geriatria","description": "O Geriatra é o médico que trata de pacientes idosos, acompanhando as mudanças naturais referentes ao processo de envelhecimento." }
+	"specialties": [
+		{
+			"id": 1,
+			"title": "Clínico Geral",
+			"code": "clinico-geral",
+			"short-description": "O Clínico Geral é o médico que trata de pacientes adultos, acompanhando diferentes doenças.",
+			"description": "O Ginecologista é o médico que trata do organismo da mulher e de seu aparelho genital, fazendo o acompanhamento contínuo da saúde feminina. Alguns dos sintomas avaliados pelo Ginecologista são:<br/> - Problemas de corrimento;<br/> - Dor na relação sexual;<br/> - Suspeita de gravidez;<br/> - Prevenção de doenças relacionadas ao aparelho reprodutor feminino.<br/><br/>Para o complemento da consulta, o médico poderá pedir alguns exames, como papanicolau, colposcopia, vulvoscopia, ultrassom transvaginal, ultrassom de mamas, mamografia e exames laboratoriais variados."
+		},
+		{
+			"id": 2,
+			"title": "Pediatria",
+			"code": "pedriatria",
+			"short-description": "O Pediatra é o médico que atua na assistência a crianças e adolescentes, fazendo a prevenção e o tratamento de doenças e acompanhando o desenvolvimento de seus pacientes.",
+			"description": "O Ginecologista é o médico que trata do organismo da mulher e de seu aparelho genital, fazendo o acompanhamento contínuo da saúde feminina. Alguns dos sintomas avaliados pelo Ginecologista são:<br/> - Problemas de corrimento;<br/> - Dor na relação sexual;<br/> - Suspeita de gravidez;<br/> - Prevenção de doenças relacionadas ao aparelho reprodutor feminino.<br/><br/>Para o complemento da consulta, o médico poderá pedir alguns exames, como papanicolau, colposcopia, vulvoscopia, ultrassom transvaginal, ultrassom de mamas, mamografia e exames laboratoriais variados."
+		},
+		{
+			"id": 3,
+			"title": "Ginecologia",
+			"code": "ginecologia",
+			"short-description": "O Ginecologista é o médico que trata do organismo da mulher e de seu aparelho genital, fazendo o acompanhamento contínuo da saúde feminina.",
+			"description": "O Ginecologista é o médico que trata do organismo da mulher e de seu aparelho genital, fazendo o acompanhamento contínuo da saúde feminina. Alguns dos sintomas avaliados pelo Ginecologista são:<br/> - Problemas de corrimento;<br/> - Dor na relação sexual;<br/> - Suspeita de gravidez;<br/> - Prevenção de doenças relacionadas ao aparelho reprodutor feminino.<br/><br/>Para o complemento da consulta, o médico poderá pedir alguns exames, como papanicolau, colposcopia, vulvoscopia, ultrassom transvaginal, ultrassom de mamas, mamografia e exames laboratoriais variados."
+		},
+		{
+			"id": 4,
+			"title": "Cardiologia",
+			"code": "cardiologia",
+			"short-description": "O Cardiologista é o médico que faz o diagnóstico e tratamento das doenças do coração e também do sistema circulatório. Além de tratar doenças como hipertensão, AVC e arritmia, o Cardiologista deve ser procurado para uma orientação preventiva.",
+			"description": "O Ginecologista é o médico que trata do organismo da mulher e de seu aparelho genital, fazendo o acompanhamento contínuo da saúde feminina. Alguns dos sintomas avaliados pelo Ginecologista são:<br/> - Problemas de corrimento;<br/> - Dor na relação sexual;<br/> - Suspeita de gravidez;<br/> - Prevenção de doenças relacionadas ao aparelho reprodutor feminino.<br/><br/>Para o complemento da consulta, o médico poderá pedir alguns exames, como papanicolau, colposcopia, vulvoscopia, ultrassom transvaginal, ultrassom de mamas, mamografia e exames laboratoriais variados."
+		},
+		{
+			"id": 5,
+			"title": "Geriatria",
+			"code": "geriatria",
+			"short-description": "O Geriatra é o médico que trata de pacientes idosos, acompanhando as mudanças naturais referentes ao processo de envelhecimento.",
+			"description": "O Ginecologista é o médico que trata do organismo da mulher e de seu aparelho genital, fazendo o acompanhamento contínuo da saúde feminina. Alguns dos sintomas avaliados pelo Ginecologista são:<br/> - Problemas de corrimento;<br/> - Dor na relação sexual;<br/> - Suspeita de gravidez;<br/> - Prevenção de doenças relacionadas ao aparelho reprodutor feminino.<br/><br/>Para o complemento da consulta, o médico poderá pedir alguns exames, como papanicolau, colposcopia, vulvoscopia, ultrassom transvaginal, ultrassom de mamas, mamografia e exames laboratoriais variados."
+		}
 	]
 }
